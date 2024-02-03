@@ -35,6 +35,7 @@ To run this project locally, you need to have Python 3.6 or higher and the follo
 2. torch
 3. sentence-transformers
 4. pandas
+   
 You can install them using pip.
 Then, you need to download the data file and save it in the same folder as the main.py file.
 
