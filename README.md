@@ -8,7 +8,7 @@ The app uses Streamlit a Python library for creating data apps, and PyTorch, a d
 
 The data for this project is from the Dubai Pulse Open Data Portal, which provides a centralized register of companies in Dubai.
 The data file is called commerce_registry.csv and contains information such as company name, legal type, nationality, activities, and status.
-Can get the data file from this ![link](https://www.dubaipulse.gov.ae/dataset/42a06aca-0aa6-4db9-a406-71ae95c2cc88/resource/47c7d04e-8aec-46ed-baf8-059e471750d7/download/commerce_registry.csv)
+Can get the data file from this [link](https://www.dubaipulse.gov.ae/dataset/42a06aca-0aa6-4db9-a406-71ae95c2cc88/resource/47c7d04e-8aec-46ed-baf8-059e471750d7/download/commerce_registry.csv)
 
 ## Streamlit App Features
 The app has the following features:
@@ -20,7 +20,7 @@ The app has the following features:
 
 ## Colab Notebook
 This project also includes a Colab notebook that shows how to preprocess and encode the original data using the LaBSE model to get the corpus_embeddings.pt
-![Smart_Search.ipynb](https://github.com/MhdAliHarmalani/Smart-Search/blob/main/Smart_Search.ipynb)
+[Smart_Search.ipynb](https://github.com/MhdAliHarmalani/Smart-Search/blob/main/Smart_Search.ipynb)
 
 ## Installation and Usage
 To run this project locally, you need to have Python 3.6 or higher and the following packages installed:
