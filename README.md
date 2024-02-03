@@ -18,6 +18,13 @@ The app has the following features:
 4. A table that shows the top 10 results with their similarity scores and company names in Arabic and English
 5. A Text that displays the amount of time it took for the algorithm to return search results
 
+## App Screenshots
+
+![Screenshot1](https://github.com/MhdAliHarmalani/Smart-Search/blob/main/pic/Screenshot1.PNG?raw=true) ![Screenshot2](https://github.com/MhdAliHarmalani/Smart-Search/blob/main/pic/Screenshot2.PNG?raw=true) 
+![Screenshot3](https://github.com/MhdAliHarmalani/Smart-Search/blob/main/pic/Screenshot3.PNG?raw=true) ![Screenshot4](https://github.com/MhdAliHarmalani/Smart-Search/blob/main/pic/Screenshot4.PNG?raw=true) 
+![Screenshot5](https://github.com/MhdAliHarmalani/Smart-Search/blob/main/pic/Screenshot5.PNG?raw=true) ![Screenshot6](https://github.com/MhdAliHarmalani/Smart-Search/blob/main/pic/Screenshot6.PNG?raw=true) 
+![Screenshot7](https://github.com/MhdAliHarmalani/Smart-Search/blob/main/pic/Screenshot7.PNG?raw=true) 
+
 ## Colab Notebook
 This project also includes a Colab notebook that shows how to preprocess and encode the original data using the LaBSE model to get the corpus_embeddings.pt
 [Smart_Search.ipynb](https://github.com/MhdAliHarmalani/Smart-Search/blob/main/Smart_Search.ipynb)
