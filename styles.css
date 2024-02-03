@@ -1,0 +1,17 @@
+.center {
+display: flex;
+justify-content: center;
+text-align: center;
+}
+  
+.right {
+display: flex;
+justify-content: flex-end;
+text-align: right;
+}
+
+.left {
+display: flex;
+justify-content: flex-start;
+text-align: left;
+}
